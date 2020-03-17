@@ -1,2 +1,3 @@
-# cmpe443
-CMPE 443 - Principle of Embedding Systems Design
+# CMPE 443 - Principle of Embedding Systems Design
+
+This is our final project in the embedding system course.
