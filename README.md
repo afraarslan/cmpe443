@@ -1,2 +1,2 @@
-# CMPE-443
-cmpe443 - Principle of Embedding Systems Design
+# cmpe443
+CMPE 443 - Principle of Embedding Systems Design
